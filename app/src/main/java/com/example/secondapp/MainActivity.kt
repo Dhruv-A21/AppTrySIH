@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         window.statusBarColor= Color.rgb(150,75,0)
 //jhggcsdcvsdcvadc
+//        sdvef
     }
 }
 
