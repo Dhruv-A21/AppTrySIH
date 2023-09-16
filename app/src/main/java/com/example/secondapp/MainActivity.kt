@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         window.statusBarColor= Color.rgb(150,75,0)
+        // hellooooo
     }
-
 }
 
